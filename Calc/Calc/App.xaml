@@ -1,0 +1,13 @@
+﻿<Application x:Class="Calc.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Calc"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="Genshin_Impact">
+            <Setter Property="TextElement.FontFamily"
+                    Value="/texttype/#TT_Skip-E 85W">
+            </Setter>
+        </Style>
+    </Application.Resources>
+</Application>
