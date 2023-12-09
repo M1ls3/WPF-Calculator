@@ -13,7 +13,7 @@ namespace Calc
         public ControlUnit controlUnit;
 
         public Calculator()
-        {
+        { 
             arithmeticUnit = new ArithmeticUnit();
             controlUnit = new ControlUnit();
         }

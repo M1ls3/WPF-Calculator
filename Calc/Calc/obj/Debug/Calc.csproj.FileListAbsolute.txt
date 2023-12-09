@@ -15,3 +15,20 @@ C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Ла�
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 3\Calc\Calc\obj\Debug\Calc.exe
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 3\Calc\Calc\obj\Debug\Calc.pdb
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 3\Calc\Calc\obj\Debug\App.baml
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\bin\Debug\Calc.exe.config
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\bin\Debug\Calc.exe
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\bin\Debug\Calc.pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\MainWindow.g.cs
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\App.g.cs
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc_MarkupCompile.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc_MarkupCompile.lref
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\App.baml
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\MainWindow.baml
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc.g.resources
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc.exe
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_3_2023\Calc\Calc\obj\Debug\Calc.pdb

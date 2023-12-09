@@ -14,7 +14,7 @@ namespace Calc
 
         public abstract void Execute();
         public abstract void UnExecute();
-    }
+    } 
 
 
     class Add : Command

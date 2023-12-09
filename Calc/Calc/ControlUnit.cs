@@ -29,7 +29,7 @@ namespace Calc
                 if (current > 0) commands[--current].UnExecute();
             }
         }
-
+         
         public void Redo(int levels) 
         {
             for (int i = 0; i < levels; i++)

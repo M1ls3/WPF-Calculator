@@ -8,7 +8,7 @@ namespace Calc
         
         public void Run (char _operator, double _operand) 
         {
-            switch (_operator)
+            switch (_operator) 
             {
                 case '+': register += _operand; break;
                 case '-': register -= _operand; break;
